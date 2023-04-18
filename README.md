@@ -1,3 +1,3 @@
 This streamlit performs a simple EDA
 
-##Structure of Application
+##Structure of my Application
