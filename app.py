@@ -8,9 +8,11 @@ from scipy.stats import gaussian_kde
 import matplotlib.pyplot as plt
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-st.title('Stats 21 Discussion Project')
 
-imported_file = st.file_uploader('file uploader', 
+st.title('Stats 21 Discussion Project')
+st.subheader('Sofia Jain')
+
+imported_file = st.file_uploader('Upload CSV File', 
                  type=None, 
                  accept_multiple_files=False, 
                  key=None, 
