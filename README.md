@@ -1,3 +1,4 @@
 This streamlit performs a simple EDA
 
-##Structure of my Application
+Here is a link to the application:
+https://sofiajain-streamlit-app-app-u6p5ez.streamlit.app/
